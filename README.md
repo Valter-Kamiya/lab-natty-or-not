@@ -12,7 +12,8 @@ Utilizei o "ChatGPT" para criar imagem realista de duas pessoas que viveram em �
 ## 🚀 Resultados
 A imagem criada tem visual bastante realistico.
 
-[LINK PARA A IMAGEM GERADA]()
+![Image](https://github.com/user-attachments/assets/427be331-709e-4a95-9ced-1f2d10515e45)
+
 
 ## 💭 Reflexão (Opcional)
 A criação de imagens e vídeos utilizando a inteligência artificial pode causar grande impácto e também dúvidas quanto ao seu conteudo. Será que ´falso ou verdadeiro?
